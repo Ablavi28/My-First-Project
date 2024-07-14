@@ -1,2 +1,3 @@
-# My-First-Project
- "This is my first project on GitHub."
+# About My-First-Project on GitHub.
+ Undestanding GitHub project.
+ Learning about HitHub was chanlenging.
